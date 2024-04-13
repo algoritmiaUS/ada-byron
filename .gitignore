@@ -1,0 +1,6 @@
+
+# Language-specific .gitignore files
+include ignore\julia.gitignore
+include ignore\python.gitignore
+
+# General rules
