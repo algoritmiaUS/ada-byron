@@ -19,13 +19,6 @@ Repositorio de soluciones a problemas de la competición [Ada Byron](https://ada
   ¡Por supuesto!
 </details>
 
-<!-- <details>
-  <summary></summary>
-
-  
-</details> -->
-
-
 ## Cómo añadir tus soluciones
 
 
