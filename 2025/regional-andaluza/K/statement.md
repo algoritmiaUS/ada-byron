@@ -1,6 +1,4 @@
-
-
-## **La receta definitiva**
+# Problema K - La receta definitiva
 
 ¡Lo has logrado! Después de años de pruebas, experimentos y alguna que otra catástrofe culinaria, has descubierto **la receta definitiva**; un plato tan delicioso que podría cambiar el mundo de la gastronomía para siempre. Sin embargo, hay un pequeño problema: para prepararlo, necesitas una gran variedad de ingredientes, y cada uno se encuentra en un almacén distinto.
 
@@ -40,11 +38,7 @@ Una única línea por cada caso de prueba con un número (redondeado a dos cifra
   - $0 \leq V \leq 10^6$
   - $0 \leq S \leq 10^9$
 
-
-### **Ejemplo**
-
-
-#### **Entrada**
+## Entrada de ejemplo
 
 ```
 2
@@ -67,8 +61,7 @@ Una única línea por cada caso de prueba con un número (redondeado a dos cifra
 3 3 6
 ```
 
-
-#### **Salida esperada**
+## Salida de ejemplo
 
 ```
 1.41
