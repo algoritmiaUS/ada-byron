@@ -1,3 +1,15 @@
 [submodule "2024/nacional"]
 	path = 2024/nacional
 	url = git@github.com:nachogoro/nacional-adabyron-2024.git
+[submodule "2024/regional-andaluza-alternativo"]
+	path = 2024/regional-andaluza-alternativo
+	url = git@github.com:nachogoro/andalucia-adabyron-2024.git
+[submodule "2025/regional-andaluza-alternativo"]
+	path = 2025/regional-andaluza-alternativo
+	url = git@github.com:nachogoro/andalucia-adabyron-2025.git
+[submodule "2025/nacional-alternativo"]
+	path = 2025/nacional-alternativo
+	url = git@github.com:nachogoro/nacional-adabyron-2025.git
+[submodule "2026/regional-andaluza-alternativo"]
+	path = 2026/regional-andaluza-alternativo
+	url = https://github.com/nachogoro/andalucia-adabyron-2026
