@@ -13,3 +13,9 @@
 [submodule "2026/regional-andaluza-alternativo"]
 	path = 2026/regional-andaluza-alternativo
 	url = https://github.com/nachogoro/andalucia-adabyron-2026
+[submodule "2026/nacional-alternativo"]
+	path = 2026/nacional-alternativo
+	url = git@github.com:nachogoro/nacional-adabyron-2026.git
+[submodule "2024/nacional-alternativo"]
+	path = 2024/nacional-alternativo
+	url = git@github.com:nachogoro/nacional-adabyron-2024.git
